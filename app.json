@@ -13,7 +13,7 @@
         "pyrofork",
         "kurigram"
     ],
-    "repository": "https://github.com/KunalG932/StringX",
+    "repository": "https://github.com/shnwazdeveloper/StringX",
     "stack": "heroku-24",
     "buildpacks": [
         {
