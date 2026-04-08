@@ -15,8 +15,8 @@ except ImportError:
     BS = None
 
 PURL = "https://graph.org/Privacy-Policy---StringX-02-11-3"
-IMG = "https://telegra.ph/file/1049e78ce9d6f67cfcdf2-faf067ca2ed756eb61.jpg"
-CURL = "https://t.me/Awakeners_Bots"
+IMG = "https://files.catbox.moe/wtkynt.png"
+CURL = "https://t.me/iwantandroid"
 
 
 PTXT = (
