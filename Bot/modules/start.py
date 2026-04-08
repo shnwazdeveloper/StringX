@@ -15,8 +15,8 @@ except ImportError:
     BS = None
 
 PURL = "https://graph.org/Privacy-Policy---StringX-02-11-3"
-IMG = "https://telegra.ph/file/1049e78ce9d6f67cfcdf2-faf067ca2ed756eb61.jpg"
-CURL = "https://t.me/Awakeners_Bots"
+IMG = "https://files.catbox.moe/wtkynt.png"
+CURL = "https://t.me/iwantandroid"
 
 
 PTXT = (
@@ -130,12 +130,12 @@ async def p_cb(_, cb: CallbackQuery):
 
 HTXT = (
     "<b>Commands</b>\n\n"
-    "/start      - Main menu\n/generate   - Generate API ID & Hash\n/session    - Generate session string\n"
-    "/stats      - Bot statistics\n/privacy    - Privacy policy\n/cancel     - Cancel current operation\n"
+    "/start      - Main menu\n/generate Generate API ID & Hash\n/session    - Generate session string\n"
+    "/stats      - Bot statistic  - s\n/privacy    - Privacy policy\n/cancel     - Cancel current operation\n"
     "/help       - This message\n\n<b>Session Types</b>\n\n<b>Pyrogram</b>\n"
     "Compatible with Pyrogram, Kurigram,\nPyrofork, and Hydrogram.\n\n"
-    "<b>Telethon</b>\nCompatible with Telethon and its forks.\n\n"
-    "<b>How It Works</b>\n\n1. Your phone number and codes are sent\n   directly to Telegram's servers.\n"
+    "<b>Telethon</b>\nCompatible with Telethon and its forks.\n\n"Your phone number and codes are s
+    "<b>How It Works</b>\n\n1. ent\n   directly to Telegram's servers.\n"
     "2. Nothing sensitive is stored in our database.\n3. Session strings are sent to your Saved\n   Messages automatically for safekeeping."
 )
 
